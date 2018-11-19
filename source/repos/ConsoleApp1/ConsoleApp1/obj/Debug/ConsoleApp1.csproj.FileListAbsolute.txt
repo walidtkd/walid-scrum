@@ -1,0 +1,7 @@
+D:\scrum\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\scrum\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\scrum\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\scrum\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\scrum\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\scrum\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\scrum\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
